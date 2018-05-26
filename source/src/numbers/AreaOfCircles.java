@@ -11,7 +11,7 @@ public class AreaOfCircles {
 		double radius;
 		double area;
 		
-		radius= sc.nextInt();
+		radius= sc.nextDouble();
 		area= radius*radius* Math.PI;
 		System.out.println(area);
 	//shree
