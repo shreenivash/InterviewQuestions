@@ -14,7 +14,7 @@ public class AreaOfCircles {
 		radius= sc.nextInt();
 		area= radius*radius* Math.PI;
 		System.out.println(area);
-	
+	//shree
 	}
 	
 
