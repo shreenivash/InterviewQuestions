@@ -1,0 +1,10 @@
+Linux interview Questions :
+----------------------------------
+grep --after-context=5 --before-context=10 'Nov 12 2012' yourfile.log
+
+Question : - find a key word and print 10 lines before and 5 lines after a said word .
+
+----------------------
+find /Users/shreenivash.sharma/Code_Working/AddSecurityExceptionAndroid-master -type f -empty
+
+find all empty files in any said directoy
